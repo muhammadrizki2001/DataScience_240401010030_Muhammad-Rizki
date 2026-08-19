@@ -1,7 +1,7 @@
 # data-science-2026
 
 ## Informasi Mahasiswa
-* **Nama Lengkap:** MMuhammad Rizki
+* **Nama Lengkap:** Muhammad Rizki
 * **NIM:** 240401010030
 * **Program Studi:** PJJ Informatika
 * **Kelas:** IF401
