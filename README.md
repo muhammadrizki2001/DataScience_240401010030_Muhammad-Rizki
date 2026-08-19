@@ -1,7 +1,7 @@
 # data-science-2026
 
 ## Informasi Mahasiswa
-* **Nama Lengkap:** Muhammad Rizki
+* **Nama Lengkap:** MMuhammad Rizki
 * **NIM:** 240401010030
 * **Program Studi:** PJJ Informatika
 * **Kelas:** IF401
@@ -15,10 +15,10 @@ berikut link hasil seluruh Pembelajaran(1-13)
 Pertemuan	Topik / Materi Pembelajaran	Tautan Notebook (Google Colab / GitHub)
 | Pertemuan | Topik / Materi Pembelajaran | Tautan Notebook (Google Colab / GitHub) |
 | :---: | :--- | :--- |
-| **01** | Pengenalan Dasar Python, Variabel, Perulangan, & Fungsi | [Buka Notebook](./Pertemuan1_Muhammad Rizki 240401010030.ipynb) |
-| **02** | Eksplorasi Data Awal dan Manipulasi Tabel dengan Pandas | [Buka Notebook](./Pertemuan2_Muhammad Rizki 240401010030.ipynb) |
-| **03** | Pembersihan Data Kotor (*Data Cleaning* & *Imputation*) | [Buka Notebook](./Pertemuan3_Muhammad Rizki 240401010030.ipynb) |
-| **04** | Analisis Data Eksploratif (EDA) & Statistik Deskriptif | [Buka Notebook](./Pertemuan4_AMuhammad Rizki 240401010030.ipynb) |
+| **01** | Pengenalan Dasar Python, Variabel, Perulangan, & Fungsi | [Buka Notebook](./Pertemuan1_Afriansyah_Akbar_250401020013.ipynb) |
+| **02** | Eksplorasi Data Awal dan Manipulasi Tabel dengan Pandas | [Buka Notebook](./Pertemuan2_Afriansyah_Akbar_250401020013.ipynb) |
+| **03** | Pembersihan Data Kotor (*Data Cleaning* & *Imputation*) | [Buka Notebook](./Pertemuan3_Afriansyah_Akbar_250401020013.ipynb) |
+| **04** | Analisis Data Eksploratif (EDA) & Statistik Deskriptif | [Buka Notebook](./Pertemuan4_Afriansyah_Akbar_250401020013.ipynb) |
 | **05** | Visualisasi Data Kreatif & Penyusunan *Dashboard* Grafis | [Buka Notebook](./Pertemuan5_Afriansyah_Akbar_250401020013.ipynb) |
 | **06** | Jaringan Persiapan Data (*Preprocessing Pipeline* Klasifikasi) | [Buka Notebook](./Pertemuan6_Afriansyah_Akbar_250401020013.ipynb) |
 | **07** | Implementasi End-to-End Jalur Regresi Linear & Evaluasi Metrik | [Buka Notebook](./Pertemuan7_Afriansyah_Akbar_250401020013.ipynb) |
