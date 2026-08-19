@@ -15,19 +15,19 @@ berikut link hasil seluruh Pembelajaran(1-13)
 Pertemuan	Topik / Materi Pembelajaran	Tautan Notebook (Google Colab / GitHub)
 | Pertemuan | Topik / Materi Pembelajaran | Tautan Notebook (Google Colab / GitHub) |
 | :---: | :--- | :--- |
-| **01** | Pengenalan Dasar Python, Variabel, Perulangan, & Fungsi | [Buka Notebook](./Pertemuan1_Afriansyah_Akbar_250401020013.ipynb) |
-| **02** | Eksplorasi Data Awal dan Manipulasi Tabel dengan Pandas | [Buka Notebook](./Pertemuan2_Afriansyah_Akbar_250401020013.ipynb) |
-| **03** | Pembersihan Data Kotor (*Data Cleaning* & *Imputation*) | [Buka Notebook](./Pertemuan3_Afriansyah_Akbar_250401020013.ipynb) |
-| **04** | Analisis Data Eksploratif (EDA) & Statistik Deskriptif | [Buka Notebook](./Pertemuan4_Afriansyah_Akbar_250401020013.ipynb) |
-| **05** | Visualisasi Data Kreatif & Penyusunan *Dashboard* Grafis | [Buka Notebook](./Pertemuan5_Afriansyah_Akbar_250401020013.ipynb) |
-| **06** | Jaringan Persiapan Data (*Preprocessing Pipeline* Klasifikasi) | [Buka Notebook](./Pertemuan6_Afriansyah_Akbar_250401020013.ipynb) |
-| **07** | Implementasi End-to-End Jalur Regresi Linear & Evaluasi Metrik | [Buka Notebook](./Pertemuan7_Afriansyah_Akbar_250401020013.ipynb) |
-| **08** | Pemilihan Model & Hyperparameter Tuning (GridSearchCV/RandomizedSearchCV) | [Buka Notebook](./Pertemuan8_Afriansyah_Akbar_250401020013.ipynb) |
-| **09** | Pemilihan Model & Hyperparameter Tuning (GridSearchCV/RandomizedSearchCV) | [Buka Notebook](./Pertemuan9_Afriansyah_Akbar_250401020013.ipynb) |
-| **10** | Ensemble Learning (Random Forest & Gradient Boosting) | [Buka Notebook](./Pertemuan10_Afriansyah_Akbar_250401020013.ipynb) |
-| **11** | Unsupervised Learning: Segmentasi Pelanggan (K-Means & Hierarchical Clustering) | [Buka Notebook](./Pertemuan11_Afriansyah_Akbar_250401020013.ipynb) |
-| **12** | Market Basket Analysis (Apriori) & Content-Based Filtering | [Buka Notebook](./Pertemuan12_Afriansyah_Akbar_250401020013.ipynb) |
-| **13** | Neural Network (Batas Non-Linear) & Sentiment Analysis (TF-IDF NLP) | [Buka Notebook](./Pertemuan13_Afriansyah_Akbar_250401020013.ipynb) |
+| **01** | Pengenalan Dasar Python, Variabel, Perulangan, & Fungsi | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan1_Muhammad_Rizki_240401010030.ipynb) |
+| **02** | Eksplorasi Data Awal dan Manipulasi Tabel dengan Pandas | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan2_Muhammad_Rizki_240401010030.ipynb) |
+| **03** | Pembersihan Data Kotor (*Data Cleaning* & *Imputation*) | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan3_Muhammad_Rizki_240401010030.ipynb) |
+| **04** | Analisis Data Eksploratif (EDA) & Statistik Deskriptif | [Buka Notebook](https://colab.research.google.com/github/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan4_Muhammad_Rizki_240401010030.ipynb) |
+| **05** | Visualisasi Data Kreatif & Penyusunan *Dashboard* Grafis | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan5_Muhammad_Rizki_240401010030.ipynb) |
+| **06** | Jaringan Persiapan Data (*Preprocessing Pipeline* Klasifikasi) | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan6_Muhammad_Rizki_240401010030.ipynb) |
+| **07** | Implementasi End-to-End Jalur Regresi Linear & Evaluasi Metrik | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan7_Muhammad_Rizki_240401010030.ipynb) |
+| **08** | Pemilihan Model & Hyperparameter Tuning (GridSearchCV/RandomizedSearchCV) | [Buka Notebook](./Pertemuan8_.ipynb) |
+| **09** | Pemilihan Model & Hyperparameter Tuning (GridSearchCV/RandomizedSearchCV) | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan9_Muhammad%20Rizki_240401010030.ipynb) |
+| **10** | Ensemble Learning (Random Forest & Gradient Boosting) | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan10_Muhammad_Rizki_240401010030.ipynb) |
+| **11** | Unsupervised Learning: Segmentasi Pelanggan (K-Means & Hierarchical Clustering) | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan11_Muhammad_Rizki_240401010030.ipynb) |
+| **12** | Market Basket Analysis (Apriori) & Content-Based Filtering | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan12_Muhammad_Rizki_240401010030.ipynb) |
+| **13** | Neural Network (Batas Non-Linear) & Sentiment Analysis (TF-IDF NLP) | [Buka Notebook](https://github.com/muhammadrizki2001/DataScience_240401010030_Muhammad-Rizki/blob/main/Pertemuan13_Muhammad_Rizki_240401010030.ipynb) |
 
 
 Alat & Library yang Digunakan
